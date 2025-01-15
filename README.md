@@ -54,17 +54,6 @@ The source code for this project is hosted on GitHub:
 ## Project Structure
 Organize your project as follows:
 
-```
-/src
-  /components
-    TaskInput.js
-    TaskList.js
-  /styles
-    tailwind.css
-  App.js
-  index.js
-```
-
 ---
 
 ## Installation and Setup
@@ -82,7 +71,7 @@ Organize your project as follows:
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
